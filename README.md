@@ -50,4 +50,7 @@ While working on this project, I learned how customer income utilization pattern
 
 **Email:** gyanashish753@gmail.com
 
+# Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiYmJkZTFiMzAtMDczZi00NzUxLTg2ZTUtNWQxMTgzZDE0YzIyIiwidCI6ImUxNDBkOWE1LWM3NzItNDExZS05Zjk3LTI0NjI4ZTQ4MjEyYSJ9&pageName=ReportSection
+
 _Thank you!_
